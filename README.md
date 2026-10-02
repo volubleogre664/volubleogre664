@@ -9,7 +9,7 @@
 I build thoughtful, dependable web products from polished interfaces to scalable APIs and data layers. I have 3+ years of experience shipping SaaS and enterprise software, modernising legacy systems, and turning complex requirements into experiences that feel simple.
 
 <a href="https://www.linkedin.com/in/nduduzo-shabal/"><img src="./images/stack-icons/linkedin.png" alt="LinkedIn" width="30" /></a>&nbsp;&nbsp;
-<a href="mailto:ndushabal@gmail.com">Email me</a>
+<a href="mailto:ndushabal@gmail.com"><img src="./images/stack-icons/gmail.png" alt="Email Nduduzo at ndushabal@gmail.com" width="30" /></a>
 
 </div>
 
@@ -21,6 +21,25 @@ I build thoughtful, dependable web products from polished interfaces to scalable
 - 🛠️ My day-to-day strengths are **Vue.js, TypeScript, C#/.NET, SQL**, and CMS-driven product architecture.
 - 🚀 I enjoy modernising legacy systems, shaping clean developer workflows, and owning features end to end.
 - 🌱 I learn fast, care about the details, and bring a product-minded approach to engineering.
+
+## Experience
+
+### Associate Developer (Contract) · MWR Cybersec
+**February 2026 – August 2026 · Hybrid**
+
+- Owned full-stack features across a Vue.js application and a .NET 8 API.
+- Designed a large-scale static-content system integrating Umbraco CMS with Pinia, replacing fully preloaded state with lazy, page-level loading.
+- Built a developer tool that retrieves Umbraco content through an API proxy and caches it locally as a resilient production fallback.
+- Created type-safe CMS key-transformation utilities and built tested ASP.NET Core endpoints with Entity Framework Core, Dapper, SQL Server, and xUnit.
+- Helped shape a consistent, maintainable interface using Tailwind CSS.
+
+### Software Engineer · Deel Local Payroll (powered by PaySpace)
+**January 2023 – September 2025**
+
+- Delivered full-stack improvements across a large enterprise payroll platform using Vue.js, TypeScript, .NET, Elasticsearch, and Redis.
+- Led feature rebuilds that transformed legacy Visual Basic modules into scalable Vue applications backed by new REST and OData APIs.
+- Owned complex business logic and production-ready UI work while collaborating with product, QA, and senior engineers in an Agile team.
+- Improved platform consistency and reduced reliance on legacy systems through end-to-end modernisation work.
 
 ## Featured projects
 
@@ -81,14 +100,19 @@ Orbit is a full-stack social platform with account registration, a personalised 
 
 <img src="./images/stack-icons/vuejs.png" alt="Vue.js" title="Vue.js" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/react.png" alt="React" title="React" width="48" />&nbsp;&nbsp;
+<img src="./images/stack-icons/redux.png" alt="Redux" title="Redux" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/typescript.png" alt="TypeScript" title="TypeScript" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/javascript.png" alt="JavaScript" title="JavaScript" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/c-sharp.png" alt="C#" title="C#" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/dotnet-framework.png" alt=".NET" title=".NET" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/sql.png" alt="SQL" title="SQL" width="48" />&nbsp;&nbsp;
+<img src="./images/stack-icons/mongodb.png" alt="MongoDB" title="MongoDB" width="48" />&nbsp;&nbsp;
+<img src="./images/stack-icons/redis.png" alt="Redis" title="Redis" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/css3.png" alt="CSS3" title="CSS3" width="48" />&nbsp;&nbsp;
+<img src="./images/stack-icons/firebase.png" alt="Firebase" title="Firebase" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/azure.png" alt="Azure" title="Azure" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/docker.png" alt="Docker" title="Docker" width="48" />&nbsp;&nbsp;
+<img src="./images/stack-icons/postman-inc.png" alt="Postman" title="Postman" width="48" />&nbsp;&nbsp;
 <img src="./images/stack-icons/git.png" alt="Git" title="Git" width="48" />
 
 </div>
@@ -98,25 +122,6 @@ Orbit is a full-stack social platform with account registration, a personalised 
 **Data:** SQL Server, T-SQL, PostgreSQL, MongoDB, Firestore, Elasticsearch, Redis<br>
 **Cloud & delivery:** Azure DevOps, Firebase, Vercel, Docker, GitHub Actions, CI/CD, serverless architecture<br>
 **Ways of working:** Agile/Scrum, xUnit testing, authentication and authorisation, API integrations, data migrations, mentoring
-
-## Experience
-
-### Associate Developer (Contract) · MWR Cybersec
-**February 2026 – August 2026 · Hybrid**
-
-- Owned full-stack features across a Vue.js application and a .NET 8 API.
-- Designed a large-scale static-content system integrating Umbraco CMS with Pinia, replacing fully preloaded state with lazy, page-level loading.
-- Built a developer tool that retrieves Umbraco content through an API proxy and caches it locally as a resilient production fallback.
-- Created type-safe CMS key-transformation utilities and built tested ASP.NET Core endpoints with Entity Framework Core, Dapper, SQL Server, and xUnit.
-- Helped shape a consistent, maintainable interface using Tailwind CSS.
-
-### Software Engineer · Deel Local Payroll (powered by PaySpace)
-**January 2023 – September 2025**
-
-- Delivered full-stack improvements across a large enterprise payroll platform using Vue.js, TypeScript, .NET, Elasticsearch, and Redis.
-- Led feature rebuilds that transformed legacy Visual Basic modules into scalable Vue applications backed by new REST and OData APIs.
-- Owned complex business logic and production-ready UI work while collaborating with product, QA, and senior engineers in an Agile team.
-- Improved platform consistency and reduced reliance on legacy systems through end-to-end modernisation work.
 
 ## Education
 
@@ -131,6 +136,7 @@ Orbit is a full-stack social platform with account registration, a personalised 
 
 I'm always happy to connect with developers, product people, and teams solving interesting problems.
 
-<a href="https://www.linkedin.com/in/nduduzo-shabal/"><img src="./images/stack-icons/linkedin.png" alt="Connect with Nduduzo on LinkedIn" width="26" />&nbsp; Connect with me on LinkedIn</a>
+<a href="https://www.linkedin.com/in/nduduzo-shabal/"><img src="./images/stack-icons/linkedin.png" alt="Connect with Nduduzo on LinkedIn" width="26" />&nbsp; Connect with me on LinkedIn</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:ndushabal@gmail.com"><img src="./images/stack-icons/gmail.png" alt="Email Nduduzo" width="26" />&nbsp; ndushabal@gmail.com</a>
 
 </div>
